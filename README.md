@@ -33,7 +33,7 @@ How to use
 -------
 ```
   $ cd /path/to/redmine/plugins
-  $ git clone git://github.com/ANovitsky/redmine_shared_api.git redmine_shared_api
+  $ git clone git://github.com/ANovitsky/redmine_shared_api.git
 ```
 Then restart redmine.
 
